@@ -1,0 +1,14 @@
+HTTP status nedir?
+
+HTTP durum kodları (status codes) ise istemci 
+yani web tarayıcı ile sunucu arasındaki iletişim sürecinde neler olduğunu açıklayan, 3 haneli bir sayıdır.
+ Bu kodların genellikle hata ile ilgili olduğu düşünülür. Fakat kodlar sunucu ve istemci arasındaki aktarım işleminin durumunu 
+ 
+
+En yaygın olarak döndürülen HTTP yanıt kodları:
+
+200: İstenen URL’deki sayfa web sunucusu tarafından başarıyla işlendi.
+301: İstenen URL kalıcı olarak başka bir URL’ye yeniden atandı ve bu URL’deki sayfa istenecek.
+302: İstenen URL geçici olarak başka bir URL’ye yeniden atandı ve bu URL’deki sayfa istenecek.
+404: İstenen URL’deki sayfa web sunucusunda bulunamadı.
+503: Web sunucusu geçici olarak kullanılamıyor ve URL isteğini işleyemiyor.

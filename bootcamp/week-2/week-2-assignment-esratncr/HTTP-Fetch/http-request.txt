@@ -1,0 +1,17 @@
+HTTP Metotları
+
+GET
+Verileri almak - listelemek için kullanılan istek metodudur.
+
+POST
+Belirli bir kaynağa veri göndermek için kullanılır.
+
+PUT
+Belirli bir kaynaktaki verinin tamamının değiştirilmesi için kullanılan metodtur.
+
+PATCH
+Belirli bir kaynaktaki verilerin bir kısmının değiştirilmesi için kullanılan metodtur.
+
+
+DELETE
+Belirli bir kaynaktaki verilerin silinmesi için kullanılan metodtur.
